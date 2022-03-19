@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .logo {
@@ -11,6 +11,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 10px;
 }
 
 ul {
@@ -30,7 +31,6 @@ ul {
   display: flex;
   padding: 10px;
   margin: 0;
-  justify-content: evenly;
 }
 
 li {
