@@ -25,3 +25,14 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+ul {
+  display: flex;
+  padding: 10px;
+  margin: 0;
+  justify-content: evenly;
+}
+
+li {
+  margin: 10px;
+}
