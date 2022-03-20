@@ -29,7 +29,7 @@ img {
 
 .container {
   display: flex;
-  /* justify-content: center; */
+  gap: 52px;
 }
 
 .container1, .container2, .container3, .container4 {
