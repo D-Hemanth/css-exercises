@@ -34,9 +34,9 @@ img {
 }
 
 .container1, .container2, .container3, .container4 {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap; */
   text-align: center;
   width: 200px;
 }
