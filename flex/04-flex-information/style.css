@@ -24,3 +24,15 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.container {
+  display: flex;
+  /* justify-content: center; */
+}
+
+.container1, .container2, .container3, .container4 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
