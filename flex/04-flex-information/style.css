@@ -30,6 +30,7 @@ img {
 .container {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .container1, .container2, .container3, .container4 {
@@ -37,4 +38,5 @@ img {
   justify-content: center;
   flex-wrap: wrap;
   text-align: center;
+  width: 200px;
 }
