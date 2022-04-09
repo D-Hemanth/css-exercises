@@ -69,3 +69,11 @@ button.cancel {
   font-weight: 900;
   font-size: large;
 }
+
+.content {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  flex-wrap: wrap;
+  row-gap: 10px;
+}
