@@ -32,3 +32,15 @@ input {
   justify-content: space-between;
   list-style: none;
 }
+
+.footer {
+  background-color: #eeeeee;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.left-links, .right-links {
+  margin: 0;
+  padding: 10px;
+  gap: 15px;
+}
