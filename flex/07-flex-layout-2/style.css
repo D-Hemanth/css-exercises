@@ -66,4 +66,9 @@ a {
   flex-wrap: wrap;
   gap: 15px;
 }
+
+.main {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
 }
